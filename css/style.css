@@ -89,8 +89,20 @@ padding-top: 5%; margin: 0 auto; padding-bottom:5%}
 		color: #333; line-height: 42px
 	}
 	.news ul li p{  font-size: 14px; line-height: 24px}
+.box{
+   width: 70%;  margin: 2% auto;
+   
+   overflow: hidden;
 
-  
+}
+  .box1{
+   width: 19%;  float: left;  
+   margin-left: 1%
+}
+  .box1 img{
+   width: 100%;  float: left;  
+}
+
 @media screen and (max-width:960px) {
     
     .news ul li{  margin-left: 50px; float: left; 
